@@ -1,0 +1,1 @@
+# scrape_jumia_black_friday
